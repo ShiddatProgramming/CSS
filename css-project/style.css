@@ -1,0 +1,36 @@
+/* tag selector  */
+
+h3{
+    color: red;
+}
+
+
+
+
+h5{
+    color: rgb(38, 0, 255);
+}
+
+
+/* id selector #  */
+
+#redColor{
+    color: rgb(255, 0, 0);
+}
+
+
+#greenColor{
+    color: green;
+}
+
+
+/* class selectors .  */
+
+
+.same{
+    color: pink;
+}
+
+.different{
+    color: yellow;
+}
